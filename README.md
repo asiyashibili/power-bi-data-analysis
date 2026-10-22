@@ -39,8 +39,8 @@ The dataset contains financial and sales information used to analyze performance
 - **Overall Profitability:** Total profit was approximately 14.22% of total sales, based on the reported totals.
 
 ## Project Files
-- **Power BI Report (.pbix):** Contains the dashboard and report visualizations.
-- **Dashboard Screenshot:** Provides a visual preview of the completed report.
+- **Sales_Performance_Dashboard.pbix:** Contains the dashboard and report visualizations.
+- **sales_performance.png:** Provides a visual preview of the completed report.
 
 ## Conclusion
 This project demonstrates the use of Power BI to summarize business performance, compare sales and profitability across categories, and present key findings through an interactive dashboard.
